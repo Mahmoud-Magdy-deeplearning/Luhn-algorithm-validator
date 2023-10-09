@@ -2,8 +2,7 @@
 
 rem Start the React app
 cd frontend
-start npm i
-start cmd /k "npm start"
+start cmd /k "npm i && npm start"
 
 rem Start the validator Spring Boot app
 cd ../validator

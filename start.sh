@@ -12,3 +12,5 @@ mvn spring-boot:run &
 # Start the generator Spring Boot app
 cd ../generator
 mvn spring-boot:run &
+
+wait
